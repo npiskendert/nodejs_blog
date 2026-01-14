@@ -2,8 +2,6 @@
 
 A simple Node.js blog application where users can follow and read blog posts published by an admin.
 
-🔗 **Live Demo:** [https://nodejs-blog-gsws.onrender.com](https://nodejs-blog-gsws.onrender.com)
-
 ## ✨ Features
 
 * Admin-only panel accessible via `/admin`
