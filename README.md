@@ -17,11 +17,5 @@ A simple Node.js blog application where users can follow and read blog posts pub
 * **HTML / CSS**
 
 
-## 🌐 Deployment
-
-This project is deployed on **Render**:
-
-[https://nodejs-blog-gsws.onrender.com](https://nodejs-blog-gsws.onrender.com)
-
 ---
 > A small and focused project built for learning and practice.
